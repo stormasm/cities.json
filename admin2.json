@@ -2272,6 +2272,42 @@
     "name": "Shengavit"
   },
   {
+    "code": "AM.05.13287720",
+    "name": "Ch’arents’avan Hamaynk’"
+  },
+  {
+    "code": "AM.08.13287721",
+    "name": "Tat'ev Hamaynk’"
+  },
+  {
+    "code": "AM.07.13287722",
+    "name": "Ashots’k’ Hamaynk’"
+  },
+  {
+    "code": "AM.05.13287723",
+    "name": "Garrni Hamaynk’"
+  },
+  {
+    "code": "AM.06.13287724",
+    "name": "P’ambak Hamaynk’"
+  },
+  {
+    "code": "AM.06.13287725",
+    "name": "T’umanyan Hamaynk’"
+  },
+  {
+    "code": "AM.08.13287726",
+    "name": "K’ajaran Hamaynk’"
+  },
+  {
+    "code": "AM.06.13287727",
+    "name": "Step’anavan Hamaynk’"
+  },
+  {
+    "code": "AM.11.13306379",
+    "name": "Yerevan Hamaynk'"
+  },
+  {
     "code": "AO.18.145530",
     "name": "Saurimo"
   },
@@ -61173,15 +61209,15 @@
   },
   {
     "code": "GE.66.828310",
-    "name": "Kutaisis Munitsip'alit'et'i"
+    "name": "Kalaki Kutaisi"
   },
   {
     "code": "GE.71.828311",
-    "name": "Potis Munitsip'alit'et'i"
+    "name": "Kalaki Poti"
   },
   {
     "code": "GE.68.828312",
-    "name": "Rustavis Munitsip'alit'et'i"
+    "name": "Kalaki Rustavi"
   },
   {
     "code": "GE.66.828313",
@@ -61325,7 +61361,7 @@
   },
   {
     "code": "GE.04.13216140",
-    "name": "Batumis Munitsip'alit'et'i"
+    "name": "Kalaki Batumi"
   },
   {
     "code": "GE.02.13254038",
@@ -120824,10 +120860,6 @@
     "name": "Province of Marinduque"
   },
   {
-    "code": "PH.14.56",
-    "name": "Province of Maguindanao"
-  },
-  {
     "code": "PH.08.37",
     "name": "Province of Leyte"
   },
@@ -121030,6 +121062,14 @@
   {
     "code": "PH.NCR.137600000",
     "name": "Southern Manila District"
+  },
+  {
+    "code": "PH.14.MGS",
+    "name": "Maguindanao del Sur"
+  },
+  {
+    "code": "PH.14.MGN",
+    "name": "Maguindanao del Norte"
   },
   {
     "code": "PK.02.1162104",
@@ -147577,7 +147617,7 @@
   },
   {
     "code": "RU.53.1501989",
-    "name": "Krasnozerskiy Rayon"
+    "name": "Krasnozërskiy Rayon"
   },
   {
     "code": "RU.91.1502062",
@@ -147645,7 +147685,7 @@
   },
   {
     "code": "RU.53.1503080",
-    "name": "Kochenevskiy Rayon"
+    "name": "Kochenëvskiy Rayon"
   },
   {
     "code": "RU.04.1503166",
@@ -152226,6 +152266,90 @@
   {
     "code": "RU.54.13263943",
     "name": "Azovskiy Nemetskiy Natsional'nyy Rayon"
+  },
+  {
+    "code": "RU.53.13290932",
+    "name": "Gorodskoy Okrug Berdsk"
+  },
+  {
+    "code": "RU.53.13290933",
+    "name": "Gorodskoy Okrug Kol'tsovo"
+  },
+  {
+    "code": "RU.53.13290934",
+    "name": "Gorodskoy Okrug Ob'"
+  },
+  {
+    "code": "RU.53.13290935",
+    "name": "Gorodskoy Okrug Novosibirsk"
+  },
+  {
+    "code": "RU.29.13304383",
+    "name": "Prokop'yevskiy Gorodskoy Okrug"
+  },
+  {
+    "code": "RU.29.13304384",
+    "name": "Mezhdurechenskiy Rayon"
+  },
+  {
+    "code": "RU.29.13304385",
+    "name": "Kiselëvskiy Gorodskoy Okrug"
+  },
+  {
+    "code": "RU.29.13304387",
+    "name": "Kemerovskiy Gorodskoy Okrug"
+  },
+  {
+    "code": "RU.29.13304388",
+    "name": "Yurginskiy Gorodskoy Okrug"
+  },
+  {
+    "code": "RU.29.13304389",
+    "name": "Tayginskiy Gorodskoy Okrug"
+  },
+  {
+    "code": "RU.29.13304390",
+    "name": "Polysayevskiy Gorodskoy Okrug"
+  },
+  {
+    "code": "RU.29.13304391",
+    "name": "Novokuznetskiy Gorodskoy Okrug"
+  },
+  {
+    "code": "RU.29.13304392",
+    "name": "Mezhdurechenskiy Gorodskoy Okrug"
+  },
+  {
+    "code": "RU.29.13304393",
+    "name": "Belovskiy Gorodskoy Okrug"
+  },
+  {
+    "code": "RU.29.13304394",
+    "name": "Tashtagol'skoye Gorodskoye Poseleniye"
+  },
+  {
+    "code": "RU.29.13304395",
+    "name": "Berëzovskiy Gorodskoy Okrug"
+  },
+  {
+    "code": "RU.29.13304396",
+    "name": "Kaltanskiy Gorodskoy Okrug"
+  },
+  {
+    "code": "RU.29.13304397",
+    "name": "Gur'yevskiy Gorodskoy Okrug"
+  },
+  {
+    "code": "RU.29.13304398",
+    "name": "Anzhero-Sudzhenskiy Gorodskoy Okrug"
+  },
+  {
+    "code": "RU.29.13304399",
+    "name": "Leninsk-Kuznetskiy Gorodskoy Okrug"
+  },
+  {
+    "code": "RU.29.13304400",
+    "name": "Osinnikovskiy Gorodskoy Okrug"
   },
   {
     "code": "RW.11.52",
